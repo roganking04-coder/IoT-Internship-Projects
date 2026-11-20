@@ -1,0 +1,4 @@
+# Third-party dependencies for Smart Home Lighting Simulation
+# Note: Standard library packages (tkinter, json, datetime, pathlib, sys) are not included.
+
+rich>=13.0.0

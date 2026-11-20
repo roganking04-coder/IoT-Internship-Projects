@@ -1,0 +1,10 @@
+# Core dependencies for YOLO Human Detection & Camera Capture
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Optional dependencies for alerts
+plyer>=2.1.0       # Optional: desktop pop-up notifications
+pygame>=2.5.0      # Optional: custom audio file playback (Windows uses built-in winsound by default)
